@@ -1,0 +1,29 @@
+---
+name: barcode
+version: '1.0'
+vendor: rhomobile
+build: debug
+bbver: '4.6'
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile: ''
+  codesignidentity: ''
+  entitlements: ''
+  BundleIdentifier: com.rhomobile.barcode
+  BundleURLScheme: barcode
+wp:
+  productid: 8aea31a0-bc4a-012f-250a-3c07542aa8a3
+symbian:
+  uid: '0xeb9a0e81'
+android:
+  version: '2.3.3'
+extensions:
+- barcode
+- json
+- another-extension
+capabilities:
+- non_motorola_device
+- camera
+app_type: rhoelements
