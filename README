@@ -2,3 +2,12 @@ kyusu-tyabatake-Barcode
 ============================
 
 Barcode機能のサンプル
+
+Barcode機能を使用するには、Rhodes以外に"rhoelements"と呼ばれるGemが必要になります。
+こちらのrhoelementsのGemは一般で公開されていません。
+rhoelementsをインストールするには、RhoMobnileのインストールが必要です。
+
+RhoMobileをインストールする方法は
+以下のURLを参考にしてください
+Mac OSの場合：http://smph-biz.jp/environment/index.html#section1_5
+Windowsの場合：http://smph-biz.jp/environment/windows.html#section1_5
