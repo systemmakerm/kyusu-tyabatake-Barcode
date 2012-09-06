@@ -5,7 +5,7 @@ Barcode機能のサンプル
 
 Barcode機能を使用するには、Rhodes以外に"rhoelements"と呼ばれるGemが必要になります。
 こちらのrhoelementsのGemは一般で公開されていません。
-rhoelementsをインストールするには、RhoMobnileのインストールが必要です。
+rhoelementsをインストールするには、RhoMobileのインストールが必要です。
 
 RhoMobileをインストールする方法は
 以下のURLを参考にしてください
