@@ -7,7 +7,7 @@ bbver: '4.6'
 applog: rholog.txt
 iphone:
   configuration: Release
-  sdk: iphonesimulator5.0
+  sdk: iphonesimulator5.1
   provisionprofile: ''
   codesignidentity: ''
   entitlements: ''
@@ -18,7 +18,9 @@ wp:
 symbian:
   uid: '0xeb9a0e81'
 android:
-  version: '2.3.3'
+  version: 2.3.3
+  extensions:
+  - barcode
 extensions:
 - barcode
 - json
@@ -27,3 +29,4 @@ capabilities:
 - non_motorola_device
 - camera
 app_type: rhoelements
+sdk: /Users/nishima/.rvm/gems/ruby-1.9.2-p320@rosp/gems/rhodes-3.4.2
